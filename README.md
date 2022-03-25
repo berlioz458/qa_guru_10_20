@@ -2,7 +2,7 @@
 
 1. Скачала Gradle 4.2.1 - https://gradle.org/next-steps/?version=4.2.1&format=bin
 2. В проекте указала все указано в https://daggerok.github.io/soapui-runner/
-3. Собрала
+3. Собрала, предварительно в Idea изменила место откуда брать гредл и джаву
 ![image](https://user-images.githubusercontent.com/15326661/160134066-c0bf2f97-84b0-4cf4-9745-2acc6fa77fba.png)
 4. Далее запускаю testrunner, в котором указан .xml файл из SoapUI
 <code>
